@@ -2,7 +2,7 @@
   "__type__": "cc.SpriteAtlas",
   "_name": "poker.plist",
   "_objFlags": 0,
-  "_rawFiles": null,
+  "_native": "",
   "_spriteFrames": {
     "dawang_0": {
       "__uuid__": "4c2ba245-22fe-416f-ae7b-2b473ad29b06"
